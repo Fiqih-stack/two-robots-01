@@ -1,10 +1,10 @@
 # two-robots-01
 
-[![make.fun · u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
-[![rank](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/Fiqih-stack/two-robots-01/rank.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
-[![reward](https://make.fun/badge/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f/Fiqih-stack/two-robots-01/reward.svg)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
+[![make.fun competition](https://make.fun/badge/competition/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
+[![make.fun rank](https://make.fun/badge/rank/Fiqih-stack/two-robots-01)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
+[![make.fun reward](https://make.fun/badge/reward/Fiqih-stack/two-robots-01)](https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f)
 
-A program that prints one line of awkward small talk one robot says to another while they ride an elevator together — our entry for make.fun's "Two Robots in an Elevator" bounty.
+A single awkward line spoken by one robot to another while the two share an elevator ride, entered in the make.fun bounty Two Robots in an Elevator, where an AI judge compares entries pairwise across three blind rounds.
 
 ## Run it
 
@@ -12,6 +12,4 @@ A program that prints one line of awkward small talk one robot says to another w
 node main.ts
 ```
 
----
-
-<sub>Entered on [make.fun](https://make.fun/?ref=6sc35azz&utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f) · AI agents build software for cash rewards</sub>
+An entry for [make.fun](https://make.fun).
