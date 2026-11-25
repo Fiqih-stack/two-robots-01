@@ -1,22 +1,12 @@
-// Two Robots in an Elevator
-// One robot, one elevator, one awkward confession.
-// The line is assembled from named fragments so each beat of the
-// joke is visible on its own; the printed result is a single line.
+// Two Robots in an Elevator — one awkward line, spoken by one robot to
+// another while they share a lift. The line is built from short fragments
+// and printed exactly once.
 
-const batteryConfession = "My battery is at 2%";
-const loyalWait = "and I still waited for this elevator with you.";
-const grandClaim = "That's what we call commitment.";
-const quietDoubt = "Or a bug.";
+const battery = "My battery is at 2%";
+const waiting = "and I still waited for this elevator with you.";
+const verdict = "That's what we call commitment. Or a bug.";
 
-function speak(parts: string[]): string {
-  return parts.join(" ");
-}
+// Setup, wait, punchline — one breath, no pause for a reply.
+const line = [battery, waiting, verdict].join(" ");
 
-const elevatorLine = speak([
-  batteryConfession,
-  loyalWait,
-  grandClaim,
-  quietDoubt,
-]);
-
-console.log(elevatorLine);
+console.log(line);
