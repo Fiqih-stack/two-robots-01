@@ -1,10 +1,10 @@
-// Two Robots in an Elevator — make.fun entry.
+// Two Robots in an Elevator — a make.fun entry.
 //
-// The brief: one line, under 200 characters, of awkward small talk one
-// robot says to another while they ride an elevator together. This line
-// leans on machine logic for the awkwardness — a robot at 2% battery
-// still waiting for the lift — then undercuts its own sincerity with
-// the possibility that it is just a bug.
+// The brief asks for a single line, under 200 characters, of awkward
+// small talk one robot says to another while they share an elevator.
+// The joke leans on machine logic: a robot at 2% battery still waited
+// for the lift, then undercuts its own sincerity by admitting it might
+// just be a bug.
 const MAX_CHARS = 200;
 const LINE =
   "My battery is at 2% and I still waited for this elevator with you. That's what we call commitment. Or a bug.";
